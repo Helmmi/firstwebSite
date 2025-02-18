@@ -1,0 +1,12 @@
+*{
+    padding: auto;
+}
+.space{
+    background-color: blueviolet;
+    width: 500px;
+    height: 500px;
+    
+}
+.space:hover{
+    transition: top 30px 2s;
+}
